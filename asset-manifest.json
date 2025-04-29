@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/login-delSol-frontend/static/js/main.8a580333.js",
+    "static/media/logo.svg": "/login-delSol-frontend/static/media/logo.b2bb45b35c1f1e2d6c234a887c816ad3.svg",
+    "static/media/sol.svg": "/login-delSol-frontend/static/media/sol.dfc11d157a37763de63b3f715266a063.svg",
+    "index.html": "/login-delSol-frontend/index.html",
+    "main.8a580333.js.map": "/login-delSol-frontend/static/js/main.8a580333.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8a580333.js"
+  ]
+}
